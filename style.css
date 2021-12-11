@@ -1,0 +1,108 @@
+body{background-color:tan;
+    padding: 0;}
+
+
+h1 {text-align: center;
+color:black;
+padding: 0;
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 100px;
+}
+
+h2 {color:black;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+h3 {color:black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+        font-weight: 800;
+        font-style: normal;
+    }
+
+h4 {color:black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+        font-weight: 800;
+        font-style: normal;
+    }
+
+p {font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 22px;
+    font-style: normal;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.list{
+align-items: center;
+}
+nav{
+    max-width: 60vw;    
+    margin:30px auto;
+}
+
+.navlink {
+    width: 25%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;}
+  
+ .list li {
+    float: left;}
+  
+ .list li a {
+    display: block;
+    color:whitesmoke;
+    text-align: 1000px;
+    padding: 14px 16px;
+    text-decoration: none;}
+  .list li a:hover {
+    background-color:orangered;}
+
+ul {text-align: center;}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60vw; 
+    margin-top: 80px;
+}
+
+.photo {
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.footer {
+    padding-top: 25px;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerone {
+    padding-top: 275px;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
