@@ -1,4 +1,4 @@
-body{background-color:grey;
+body{background-color: #585858;
     padding: 5;}
 
 .container 
@@ -248,3 +248,6 @@ ul {text-align: center;}
             margin-right: auto;
         }
             
+        hr.line {
+            border-top: 4px solid orangered;
+          }
