@@ -14,7 +14,7 @@ body{background-color: #585858;
     float: left;
     width: 200px;
     height: 200px;
-    padding:0 10px 0 0;
+    padding:0 0px 0 0;
 }
 
 .resume
@@ -77,16 +77,6 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-weight: 400px;
 
 
-    /*
-text-decoration: line-through;
-        -webkit-text-decoration-color: orangered;
-        text-decoration-color: orangered;
-        text-decoration-style: solid;
-        text-decoration-thickness: 8px;
-*/
-
-
-
 }
 
 h2 {color:black;
@@ -113,54 +103,14 @@ h4 {color:black;
     }
 
 p {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
     font-weight: 400;
     font-size: 18px;
-    padding-left: 5%;
+    padding-left: 3%;
+    padding-top: 0%;
     font-style: normal;
     text-align: justify;
 }
-
-/*
-
-.list{
-align-items: center;
-}
-nav{
-    max-width: 66vw;    
-    margin: 15px auto;
-}
-
-.navlink {
-    width: 33.33%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 10px;
-    font-weight: 600;
-    font-style: normal;
-    background-color:black;
-}
-
-.list ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:black;}
-  
- .list li {
-    float: left;}
-  
- .list li a {
-    display: block;
-    color:whitesmoke;
-    text-align: 1000px;
-    padding: 14px 16px;
-    text-decoration: none;}
-  .list li a:hover {
-    background-color:orangered;}
-
-ul {text-align: center;}
-
-*/
 
 nav{
     max-width: 66vw;    
@@ -207,7 +157,7 @@ ul {text-align: center;}
         
     nav{
         max-width: 66vw;    
-        margin: 15px auto;}
+        margin: 10px auto;}
     
     ul {text-align: center;}
     
@@ -215,7 +165,7 @@ ul {text-align: center;}
       {
         list-style-type: none;
         margin: 0;
-        padding: 0;
+        padding: 10px;
         overflow: hidden;
       }
       
@@ -249,5 +199,6 @@ ul {text-align: center;}
         }
             
         hr.line {
-            border-top: 4px solid orangered;
+            border-top: 5px solid white;
+            padding: auto;
           }
