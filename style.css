@@ -79,7 +79,7 @@ font-weight: 400px;
 
 }
 
-h2 {color:black;
+h2 {color:whitesmoke;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
@@ -87,7 +87,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
 }
 
-h3 {color:black;
+h3 {color:whitesmoke;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 30px;
@@ -95,7 +95,7 @@ h3 {color:black;
         font-style: normal;
     }
 
-h4 {color:black;
+h4 {color:whitesmoke;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
@@ -106,7 +106,7 @@ h4 {color:black;
 p {font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: whitesmoke;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 16px;
     padding-left: 3%;
     padding-top: 0%;
     font-style: normal;
