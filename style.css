@@ -1,13 +1,19 @@
 body{background-color: #585858;
     padding: 5;}
 
+
 .container 
 {
+    width: 100%;
+    min-height: 100vh;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    overflow: hidden;
     display: flex;
-    margin: 0px auto;
-    width: 66%;
-    padding: 0px;
 }
+
+
 
 .img
 {
@@ -125,6 +131,8 @@ ul {text-align: center;}
     margin: 0;
     padding: 0;
     overflow: hidden;
+    display: flex;
+    align-items: center;
   }
   
   .list2 ul {
@@ -154,6 +162,8 @@ ul {text-align: center;}
         font-style: normal;
         margin-left: auto;
         margin-right: auto;
+        align-items: center;
+        display: flex;
     }
         
     nav{
